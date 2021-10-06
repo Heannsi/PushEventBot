@@ -1,0 +1,15 @@
+by\legan\lesons\telegrambot\telegrambotgitea\Model\Commit.class
+by\legan\lesons\telegrambot\telegrambotgitea\Model\Committer.class
+by\legan\lesons\telegrambot\telegrambotgitea\Model\Repository.class
+by\legan\lesons\telegrambot\telegrambotgitea\Config\BotConfig.class
+by\legan\lesons\telegrambot\telegrambotgitea\Model\Sender.class
+by\legan\lesons\telegrambot\telegrambotgitea\Controller\gitea\WebHook.class
+by\legan\lesons\telegrambot\telegrambotgitea\Model\Pusher.class
+by\legan\lesons\telegrambot\telegrambotgitea\Controller\main\WebDashboardBot.class
+by\legan\lesons\telegrambot\telegrambotgitea\TelegramBotGiteaApplication.class
+by\legan\lesons\telegrambot\telegrambotgitea\Utils.class
+by\legan\lesons\telegrambot\telegrambotgitea\Model\GiteaWebHook.class
+by\legan\lesons\telegrambot\telegrambotgitea\Model\Owner.class
+by\legan\lesons\telegrambot\telegrambotgitea\Service\Bot.class
+by\legan\lesons\telegrambot\telegrambotgitea\Model\Author.class
+by\legan\lesons\telegrambot\telegrambotgitea\Config\BotInitializer.class
