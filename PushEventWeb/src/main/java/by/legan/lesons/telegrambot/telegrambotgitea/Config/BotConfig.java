@@ -10,10 +10,10 @@ import org.springframework.context.annotation.PropertySource;
 @PropertySource("classpath:application.properties")
 
 public class BotConfig {
-    @Value("${PushEventBot}")
+    @Value("${botUserName}")
     String PushEventBot;
 
-    @Value("${2005570488:AAHp-SFm9DMNWdvG5XaRJc7NfTkxcNiF3dk}")
+    @Value("${token}")
     String token;
 
 }
